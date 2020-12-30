@@ -1,5 +1,5 @@
-# ridhobot
-BOT WHATSAPP HP RIDHO SETIAWAN
+# Davellyno
+BOT WHATSAPP HP Davellyno
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -17,7 +17,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/ridho03/waridhobot.git
+> git clone https://github.com/davellyno-cyber/bot-wa-MYBOT
 > cd botst4rz
 > bash install.sh
 > node index.js
@@ -26,7 +26,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 
 ## Features
 
-| RIDHO BOT       |                Feature           |
+| Davellyno      |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Magernulis                       |
@@ -45,10 +45,6 @@ Sebelum lu jalanin sc nya install dulu lah.
 |       ✅       | Info                             |
 |       ✅       | Donate                           |
 
-## Special Thanks to
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
-[`ST4RZ`](https://github.com/Bintang73)
-[`ARIS187 ID`](https://github.com/A187ID)
 
 ### Donate
-* DANA/PULSA  081289096745
+* DANA/PULSA  088291819839
