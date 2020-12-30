@@ -18,7 +18,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > git clone https://github.com/davellyno-cyber/bot-wa-MYBOT
-> cd botst4rz
+> cd bot-wa-MYBOT
 > bash install.sh
 > node index.js
 > Tinggal scan qr dah
