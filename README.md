@@ -47,4 +47,4 @@ Sebelum lu jalanin sc nya install dulu lah.
 
 
 ### Donate
-* DANA/PULSA  088291819839
+* GOPAY/PULSA  088291819839
