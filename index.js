@@ -13,12 +13,11 @@ const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 				  
 //
-const BotName = 'RIDHO BOT 🤖'; // Nama Bot Whatsapp
-const instagramlu = 'https://instagram.com/ridho_setiawan02'; // Nama Instagramlu cok
-const whatsapplu = '0812-8909-6745'; // Nomor whatsapplu cok
+const BotName = 'MYBOT 🤖'; // Nama Bot Whatsapp
+const instagramlu = 'https://www.instagram.com/davellyno.djossie?r=nametag'; // Nama Instagramlu cok
+const whatsapplu = 'https://wa.me/6288291819839'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/LX1nAiZUuB5FmTCMwe0o4g'; // OFFICIAL GRUP LU 1
-const grupch2 = 'https://chat.whatsapp.com/Kjv5IWzNIeCBSaH4lJKX8v'; // OFFICIAL GRUP LU 2
+const grupch1 = 'https://chat.whatsapp.com/JMWXHNUbHYtHYWBLweyCPD'; // OFFICIAL GRUP LU 1
 //
 const
 {
